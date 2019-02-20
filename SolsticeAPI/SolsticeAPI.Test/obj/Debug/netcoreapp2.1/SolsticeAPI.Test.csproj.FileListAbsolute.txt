@@ -1,0 +1,17 @@
+C:\Users\Diego\source\repos\SolsticeAPI\SolsticeAPI.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Diego\source\repos\SolsticeAPI\SolsticeAPI.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Diego\source\repos\SolsticeAPI\SolsticeAPI.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Diego\source\repos\SolsticeAPI\SolsticeAPI.Test\bin\Debug\netcoreapp2.1\SolsticeAPI.Test.deps.json
+C:\Users\Diego\source\repos\SolsticeAPI\SolsticeAPI.Test\bin\Debug\netcoreapp2.1\SolsticeAPI.Test.runtimeconfig.json
+C:\Users\Diego\source\repos\SolsticeAPI\SolsticeAPI.Test\bin\Debug\netcoreapp2.1\SolsticeAPI.Test.runtimeconfig.dev.json
+C:\Users\Diego\source\repos\SolsticeAPI\SolsticeAPI.Test\bin\Debug\netcoreapp2.1\SolsticeAPI.Test.dll
+C:\Users\Diego\source\repos\SolsticeAPI\SolsticeAPI.Test\bin\Debug\netcoreapp2.1\SolsticeAPI.dll
+C:\Users\Diego\source\repos\SolsticeAPI\SolsticeAPI.Test\bin\Debug\netcoreapp2.1\SolsticeAPI.pdb
+C:\Users\Diego\source\repos\SolsticeAPI\SolsticeAPI.Test\obj\Debug\netcoreapp2.1\SolsticeAPI.Test.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\SolsticeAPI\SolsticeAPI.Test\obj\Debug\netcoreapp2.1\SolsticeAPI.Test.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\SolsticeAPI\SolsticeAPI.Test\obj\Debug\netcoreapp2.1\SolsticeAPI.Test.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\SolsticeAPI\SolsticeAPI.Test\obj\Debug\netcoreapp2.1\SolsticeAPI.Test.AssemblyInfo.cs
+C:\Users\Diego\source\repos\SolsticeAPI\SolsticeAPI.Test\obj\Debug\netcoreapp2.1\SolsticeAPI.Test.csproj.CopyComplete
+C:\Users\Diego\source\repos\SolsticeAPI\SolsticeAPI.Test\bin\Debug\netcoreapp2.1\SolsticeAPI.Test.pdb
+C:\Users\Diego\source\repos\SolsticeAPI\SolsticeAPI.Test\obj\Debug\netcoreapp2.1\SolsticeAPI.Test.dll
+C:\Users\Diego\source\repos\SolsticeAPI\SolsticeAPI.Test\obj\Debug\netcoreapp2.1\SolsticeAPI.Test.pdb

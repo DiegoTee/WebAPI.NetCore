@@ -1,0 +1,13 @@
+C:\Users\Diego\source\repos\SolsticeAPI\SolsticeAPI\bin\Debug\netcoreapp2.1\SolsticeAPI.deps.json
+C:\Users\Diego\source\repos\SolsticeAPI\SolsticeAPI\bin\Debug\netcoreapp2.1\SolsticeAPI.runtimeconfig.json
+C:\Users\Diego\source\repos\SolsticeAPI\SolsticeAPI\bin\Debug\netcoreapp2.1\SolsticeAPI.runtimeconfig.dev.json
+C:\Users\Diego\source\repos\SolsticeAPI\SolsticeAPI\bin\Debug\netcoreapp2.1\SolsticeAPI.dll
+C:\Users\Diego\source\repos\SolsticeAPI\SolsticeAPI\obj\Debug\netcoreapp2.1\SolsticeAPI.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\SolsticeAPI\SolsticeAPI\obj\Debug\netcoreapp2.1\SolsticeAPI.RazorAssemblyInfo.cache
+C:\Users\Diego\source\repos\SolsticeAPI\SolsticeAPI\obj\Debug\netcoreapp2.1\SolsticeAPI.RazorAssemblyInfo.cs
+C:\Users\Diego\source\repos\SolsticeAPI\SolsticeAPI\obj\Debug\netcoreapp2.1\SolsticeAPI.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\SolsticeAPI\SolsticeAPI\obj\Debug\netcoreapp2.1\SolsticeAPI.AssemblyInfo.cs
+C:\Users\Diego\source\repos\SolsticeAPI\SolsticeAPI\obj\Debug\netcoreapp2.1\SolsticeAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Diego\source\repos\SolsticeAPI\SolsticeAPI\bin\Debug\netcoreapp2.1\SolsticeAPI.pdb
+C:\Users\Diego\source\repos\SolsticeAPI\SolsticeAPI\obj\Debug\netcoreapp2.1\SolsticeAPI.dll
+C:\Users\Diego\source\repos\SolsticeAPI\SolsticeAPI\obj\Debug\netcoreapp2.1\SolsticeAPI.pdb
